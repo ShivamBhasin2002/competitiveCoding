@@ -1,0 +1,1 @@
+{"name":"Local: longestSubStringWithoutRepeatingCharacters","url":"d:\\coding\\longestSubStringWithoutRepeatingCharacters.cpp","tests":[{"id":1641202265111,"input":"abcabcbb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\longestSubStringWithoutRepeatingCharacters.cpp","group":"local","local":true}

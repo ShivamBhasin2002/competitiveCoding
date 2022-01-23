@@ -1,0 +1,1 @@
+{"name":"Local: removeNthNodeFromEnd","url":"d:\\coding\\removeNthNodeFromEnd.cpp","tests":[{"id":1641116341290,"input":"3\n5 2\n1 2 3 4 5\n1 1\n1\n2 1\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\removeNthNodeFromEnd.cpp","group":"local","local":true}

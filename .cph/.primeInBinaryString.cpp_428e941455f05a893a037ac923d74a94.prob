@@ -1,0 +1,1 @@
+{"name":"Local: primeInBinaryString","url":"d:\\coding\\primeInBinaryString.cpp","tests":[{"id":1641822262693,"input":"3\n1\n111\n101101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\primeInBinaryString.cpp","group":"local","local":true}

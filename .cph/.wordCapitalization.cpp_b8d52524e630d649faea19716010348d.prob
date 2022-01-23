@@ -1,0 +1,1 @@
+{"name":"Local: wordCapitalization","url":"d:\\coding\\wordCapitalization.cpp","tests":[{"id":1632494951969,"input":"ApPLe\n","output":""},{"id":1632494966111,"input":"konjac","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\wordCapitalization.cpp","group":"local","local":true}

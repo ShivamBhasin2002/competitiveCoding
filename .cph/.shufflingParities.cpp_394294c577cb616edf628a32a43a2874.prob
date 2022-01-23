@@ -1,0 +1,1 @@
+{"name":"Local: shufflingParities","url":"d:\\coding\\shufflingParities.cpp","tests":[{"id":1630836935325,"input":"3\n3\n1 2 3\n3\n2 4 5\n2\n2 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\shufflingParities.cpp","group":"local","local":true}

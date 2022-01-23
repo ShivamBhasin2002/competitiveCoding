@@ -1,0 +1,1 @@
+{"name":"Local: borze","url":"d:\\coding\\borze.cpp","tests":[{"id":1632483664449,"input":".-.--\n","output":"012"},{"id":1632483671038,"input":"--.","output":"20"},{"id":1632483687332,"input":"-..-.--\n","output":"1012"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\borze.cpp","group":"local","local":true}

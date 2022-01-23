@@ -1,0 +1,1 @@
+{"name":"Local: longestANDSubarry","url":"d:\\coding\\longestANDSubarry.cpp","tests":[{"id":1633155914757,"input":"5\n\n1\n2\n3\n4\n7","output":"1\n1\n2\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\longestANDSubarry.cpp","group":"local","local":true}

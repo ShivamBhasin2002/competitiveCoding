@@ -1,0 +1,1 @@
+{"name":"Local: lightsOut","url":"d:\\coding\\lightsOut.cpp","tests":[{"id":1632494493948,"input":"1 0 1\n8 8 8\n2 0 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\lightsOut.cpp","group":"local","local":true}

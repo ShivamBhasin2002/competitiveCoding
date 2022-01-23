@@ -1,0 +1,1 @@
+{"name":"Local: aliceVsBobFaceoff","url":"d:\\coding\\aliceVsBobFaceoff.cpp","tests":[{"id":1633053885048,"input":"3\n1\n2\n3","output":"Alice\nBob"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\aliceVsBobFaceoff.cpp","group":"local","local":true}

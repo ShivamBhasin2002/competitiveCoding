@@ -1,0 +1,1 @@
+{"name":"Local: mexor","url":"d:\\coding\\mexor.cpp","tests":[{"id":1633240891876,"input":"4\n0\n1\n2\n5\n","output":"1\n2\n2\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\mexor.cpp","group":"local","local":true}

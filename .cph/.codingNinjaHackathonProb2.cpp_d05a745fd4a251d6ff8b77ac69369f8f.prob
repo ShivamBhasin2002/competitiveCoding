@@ -1,0 +1,1 @@
+{"name":"Local: codingNinjaHackathonProb2","url":"d:\\coding\\codingNinjaHackathonProb2.cpp","tests":[{"id":1636985168383,"input":"5 8\n10 1 1 1 10\n9 10 11 12 13 14 15 23","output":"1 9\n1 10\n2 1\n3 1\n4 1\n5 1\n5 2\n5 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\codingNinjaHackathonProb2.cpp","group":"local","local":true}

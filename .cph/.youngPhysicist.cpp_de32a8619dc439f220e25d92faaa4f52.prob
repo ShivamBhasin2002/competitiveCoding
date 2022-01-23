@@ -1,0 +1,1 @@
+{"name":"Local: youngPhysicist","url":"d:\\coding\\youngPhysicist.cpp","tests":[{"id":1632480805338,"input":"3\n4 1 7\n-2 4 -1\n1 -5 -3","output":""},{"id":1632480815801,"input":"3\n3 -1 7\n-5 2 -4\n2 -1 -3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\youngPhysicist.cpp","group":"local","local":true}

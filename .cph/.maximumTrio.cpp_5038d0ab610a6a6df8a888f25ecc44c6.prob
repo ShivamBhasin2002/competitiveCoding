@@ -1,0 +1,1 @@
+{"name":"Local: maximumTrio","url":"d:\\coding\\maximumTrio.cpp","tests":[{"id":1640449224792,"input":"3\n3\n1 1 3\n5\n3 4 4 1 2\n5\n23 17 21 18 19","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\maximumTrio.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: danceMoves","url":"d:\\coding\\danceMoves.cpp","tests":[{"id":1634928614224,"input":"4\n3 8\n-11 -5\n57 492\n-677 913","output":"4\n3\n219\n795"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\coding\\danceMoves.cpp","group":"local","local":true}
