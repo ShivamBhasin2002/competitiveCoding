@@ -13,7 +13,7 @@ int main()
 		{
 			cout << j << " ";
 			if (i & 1)
-				j += 3;
+				j += k;
 			else
 				j++;
 		}
